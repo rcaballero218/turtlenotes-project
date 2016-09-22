@@ -1,6 +1,9 @@
 # turtlenotes-project
 ---------
 http://www.cpturtlenotes.com
+temporary username: johndoe
+temporary password: qwerty123
+(this particular username/password will be active until 01-01-2017)
 
 #### Overview
 This website was designed to allow programmers from the University of Maryland to collaboratively edit and post lecture notes, answer student questions, and allow the programming community to interact with one another. Post functional capabilities of the site are set to launch in Spring 2017. The site is currently active to register, and contact the superuser for any inquiries or participate in the project.
