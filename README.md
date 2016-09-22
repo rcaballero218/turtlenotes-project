@@ -1,8 +1,11 @@
 # turtlenotes-project
 ---------
 http://www.cpturtlenotes.com
+
 temporary username: johndoe
-temporary password: qwerty123
+
+temporary password: qwerty123 
+
 (this particular username/password will be active until 01-01-2017)
 
 #### Overview
