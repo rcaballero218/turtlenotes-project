@@ -1,0 +1,7 @@
+dj-database-url==0.4.1
+Django==1.9
+django-crispy-forms==1.6.0
+django-registration-redux==1.4
+gunicorn==19.6.0
+whitenoise==3.2.1
+wsgiref==0.1.2
