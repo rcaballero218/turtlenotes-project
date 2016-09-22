@@ -2,11 +2,10 @@
 ---------
 http://www.cpturtlenotes.com
 
-temporary username: johndoe
-
-temporary password: qwerty123 
-
-(this particular username/password will be active until 01-01-2017)
+| Temporary username        | Temporary Password           |
+| ------------- |:-------------:| 
+| johndoe      | qwerty123 |  
+**(this particular username/password will be active until 01-01-2017)**
 
 #### Overview
 This website was designed to allow programmers from the University of Maryland to collaboratively edit and post lecture notes, answer student questions, and allow the programming community to interact with one another. Post functional capabilities of the site are set to launch in Spring 2017. The site is currently active to register, and contact the superuser for any inquiries or participate in the project.
@@ -44,5 +43,5 @@ If you have further questions, feel free to contact me.
   if you wish to run it locally prior to deployment. The new file currently under my repository labeled "settings.py" is my deployment settings file. In other words run python manage.py runserver --settings=src.old_settings for your local site to run properly
 - Open up a browser to 127.0.0.1:8000 and you should be up and running!
 
-I deployed my site on Heroku and used the Heroku CDI which comes with git. I'm still somewhat new to Heroku so I will not be able to give in depth instructions. I have linked the site though and their instructions are pretty straightforward.
-https://devcenter.heroku.com/articles/getting-started-with-python#introduction
+I deployed my site on Heroku and used the Heroku CDI which comes with git. I'm still somewhat new to Heroku so I will not be able to give in depth instructions. I have linked the site though and their instructions are pretty straightforward. 
+[Heroku Deplomyent using Django framework](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
